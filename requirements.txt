@@ -1,0 +1,4 @@
+torch==2.2.0
+torch-geometric
+networkx==2.7.1
+matplotlib==3.4.3
