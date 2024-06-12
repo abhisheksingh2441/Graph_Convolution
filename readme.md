@@ -53,7 +53,7 @@ python gcn.py
 
 1. Build the Docker image:
 
-docker build -t GCN .
+docker build -t gcn .
 
 
 2. Run the Docker container:
